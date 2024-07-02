@@ -1,0 +1,20 @@
+.impar{
+    background-color:rgb(212, 96, 96);
+    font-family: Verdana ,Dejavu Sans,serif ; 
+    
+}
+.diferente{
+    font-size: 24px;
+    font-weight: bold;
+}
+
+#Numero2{
+    color:hsl(240, 100%, 50%);
+    font-size: 36px;
+}
+
+#numero4{
+    background-color:rgb(104, 179, 104);
+    font-size: 24px;
+    
+}
