@@ -1,0 +1,16 @@
+.negro,.amarillo{
+    font-size: 28px;
+    font-family:Times 'Times New Roman', helvetica, sans-serif;
+    
+}
+
+.negro{
+    background-color: rgb(0, 0, 0);
+    color:rgb(255, 255, 255);
+    font-weight: bold;
+}
+
+.amarillo{
+    background-color: rgb(235, 248, 46);
+
+}
