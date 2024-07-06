@@ -10,6 +10,8 @@ img {
 .title {
   font-size: 36px;
   font-weight: 900;
+  text-align: center;
+  margin-bottom: 32px;
 }
 
 /* do not edit this footer */
@@ -23,4 +25,38 @@ img {
   align-items: center;
   justify-content: center;
   background: #eee;
+}
+
+.contenedordeimagen{
+  display: flex;
+  justify-content: center;
+  
+}
+
+.uno{
+  display: flex;
+  flex-direction: column;
+  width: 200px;
+  margin-right: 52px;
+}
+
+.dos{
+  display: flex;
+  flex-direction: column;
+  width: 200px;
+  margin-right: 52px;
+}
+
+.tres{
+  display: flex;
+  flex-direction: column;
+  width: 200px;
+  margin-right: 52px;
+}
+
+.cuatro{
+  display: flex;
+  flex-direction: column;
+  width: 200px;
+  margin-right: 52px;
 }
