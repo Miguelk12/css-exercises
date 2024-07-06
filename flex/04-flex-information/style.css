@@ -38,6 +38,7 @@ img {
   flex-direction: column;
   width: 200px;
   margin-right: 52px;
+  align-items: center;
 }
 
 .dos{
@@ -45,6 +46,7 @@ img {
   flex-direction: column;
   width: 200px;
   margin-right: 52px;
+  align-items: center;
 }
 
 .tres{
@@ -52,6 +54,7 @@ img {
   flex-direction: column;
   width: 200px;
   margin-right: 52px;
+  align-items: center;
 }
 
 .cuatro{
@@ -59,4 +62,9 @@ img {
   flex-direction: column;
   width: 200px;
   margin-right: 52px;
+  align-items: center;
+}
+
+.text{
+  padding: 10px;
 }
